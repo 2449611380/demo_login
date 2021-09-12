@@ -64,3 +64,10 @@ app.get('/logon', (req, res) => {
 > 
 > 以上是想法和总结，描述的不好请见谅(小声说话：MarkDown怎么用QAQ)
 
+运行：
+```
+npm install
+
+node app
+```
+
